@@ -1,7 +1,7 @@
 # PersianCalendar
 An Iraninan Calendar Written In Kotlin For Use In Android Projects
 
-#setup
+# setup
 1.Add the JitPack repository to your build file
 ```
 allprojects {
